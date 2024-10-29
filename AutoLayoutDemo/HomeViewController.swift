@@ -22,6 +22,7 @@ class HomeViewController: UIViewController {
 
     @IBAction func tapClickMe(_ sender: Any) {
         print("I'm clicked")
+        print("abcxyz")
     }
 
     @IBAction func sliderChangeValue(_ sender: UISlider) {
